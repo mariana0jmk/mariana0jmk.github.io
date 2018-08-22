@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700');
+
+
+/*--------------------------------------------Colors*/
+
+.bg-color-type-title {
+    background-color: #000080;
+}
+
+.bg-color-1{
+    background-color: #000080;
+}
+.bg-color-2{
+    background-color: #000080;
+}
+.bg-color-3 {
+    background-color: #000080;
+}
+
+.bg-color-contact{
+    background-color: #FFE4E1;
+}
+
+.ui-menu-color-home{
+    background-color: #B22222;
+}
+
+.ui-menu-color-poster{
+    background-color: #9b59b6;
+}
+
+.ui-menu-color-contact{
+    background-color: #3498db;
+}
+
+.ui-menu-color-download{
+    background-color: #008080;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    background-color: #000080;
+    color: #555555;
+}
+/*------------------------------------------------Special Paddings/margins/Text*/
+
+h1
+h2
+h3
+h4 {
+    margin: 0;
+}
+
+uppercase{
+    text-transform: uppercase;
+}
+
+.general-sub{
+    font-family: "Exo",sans-serif;
+    font-weight: 300;
+    color: #fafafa;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+
+
+.row-table{
+    display: table;
+}
+
+.history-heading,
+.section-heading{
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+/*------------------------------------------------Headings*/
+
+header{
+   margin: 0;
+}
+
+
+.heading {
+    margin-left: 50px;
+}
+
+
+.type{
+    font-family: "Exo", sans-serif;
+    font-weight: 100;
+    font-size: 46px;
+    margin-top: 50px;
+    color:#ADD8E6;
+}
+
+.title{
+    font-family:"Roboto", sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    color: #ADD8E6;
+}
+
+#nav{
+    margin:0;
+}
+
+#nav li{
+    padding: 0;
+}
+.menuitem{
+    height: 120px;
+    text-align: center;
+    padding: 0;
+}
+
+.menuitem a{
+    width: 100%;
+    text-decoration: none;
+    color: #ADD8E6;
+    height: 120px;
+}
+
+.menuitem a i{
+    padding-top: 22px;
+    display: block;
+    color: #fafafa;
+    font-size: 26px;
+}
+
+.menuitem span {
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+/*------------------------------------------------Hover.css*/
+
+
+.hvr-sweep-to-bottom:before {
+    background: rgba(0, 0, 0, 0.2);
+    height: 120px;
+}
+
+
+/*------------------------------------------------Footer*/
+footer{
+    background-color: #191970;
+    color:#FF6347;
+    min-height: 120px;
+    margin: 0;
+
+
+/*------------------------------------------------Contact*/
+
+.contact-heading{
+    font-family: "Exo", sans-serif;
+    font-weight: 200;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.center-form{
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+button[type="submit"]{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color: #FF6347;
+    color: #FF6347;
+}
