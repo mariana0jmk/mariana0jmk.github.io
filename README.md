@@ -50,5 +50,5 @@ As a footer you will find the options to be navigated to the rest of my project.
 Total of 6 webpages and many external links. Tested and working as expected. Tested as per the responsive design and working as expected.
 
 
-Deployed to github:
+Deployed to github> Yes.
 # Scorpions-Unofficial-Project
